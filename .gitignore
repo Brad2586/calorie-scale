@@ -1,0 +1,5 @@
+Thumbs.db
+.DS_Store
+
+# Local Wi-Fi credentials - never commit
+firmware/CalorieScaleCam/secrets.h
